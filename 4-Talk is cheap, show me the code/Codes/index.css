@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: poppins;
+    font-weight: 600;
+    background: rgb(224, 214, 214);
+}
+
+#notRen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0px 0px 5px 5px #6e6a6a70;
+}
+
+.logo{
+    width: 100px;
+    margin-left: 50px;
+}
+
+.nav-items{
+    font-size: 17px;
+}
+
+.nav-items > ul {
+    display: flex;
+    align-items: center;
+    padding-right: 100px;
+}
+
+.nav-items > ul > li {
+    list-style: none;
+    margin: 0px 10px;
+    cursor: pointer;
+    color: rgb(46, 42, 42);
+}
+
+.nav-items>ul>li:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.nav-items>ul>li:nth-child(5){
+    background-color: green;
+    text-decoration: none;
+    color: white;
+    padding: 3px 12px;
+    border-radius: 10px;
+}
+
+.res-card{
+    width: 200px;
+    border-radius: 10px;
+    padding:7px;  
+    margin: 10px;
+    box-shadow: 0px 0px 20px 2px rgba(43, 42, 42, 0.087);
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.res-card:hover{
+    box-shadow: 0px 0px 20px 2px rgba(43, 42, 42, 0.267);
+    cursor: pointer;
+}
+
+.res-card>h3{
+    margin: 0px 0px ;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.res-card >h4{
+    margin: 4px 0px;
+    font-size: 15px;
+    color: rgb(44, 41, 41);
+}
+
+.res-card > h4> span{
+    color: white;
+    padding: 2px 5px;
+    border-radius: 5px;
+    background-color: green;   
+}
+
+.Search{
+    padding: 10px;
+}

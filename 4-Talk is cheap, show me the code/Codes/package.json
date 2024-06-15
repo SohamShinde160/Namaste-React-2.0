@@ -1,0 +1,31 @@
+{
+  "name": "3-laying-the-foundation",
+  "version": "1.0.0",
+  "description": "These is Namaste React Episode 3 - Laying the Foundation",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SohamShinde160/Namaste-React-2.0.git"
+  },
+  "keywords": [
+    "namaste-react"
+  ],
+  "author": "Soham S Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SohamShinde160/Namaste-React-2.0/issues"
+  },
+  "homepage": "https://github.com/SohamShinde160/Namaste-React-2.0#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

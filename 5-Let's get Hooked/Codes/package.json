@@ -1,7 +1,7 @@
 {
-  "name": "4-talk-is-cheap-show-me-the-code",
+  "name": "5-lets-get-hooked",
   "version": "1.0.0",
-  "description": "These is Namaste React Episode 4 - Talk is cheap, show me the code",
+  "description": "These is Namaste React Episode 5 - Let's get hooked",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",

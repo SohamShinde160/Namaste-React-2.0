@@ -16,5 +16,3 @@
         - `Props` - passing arguments to a function - Use Destructuring & Spread operator
       - `Render` your cards with dynamic data of restaurants
       - Use `Array.map` to render all the restaurants
-
-## [😋 Food App Basic Layout 😍](https://food-app-basic-layout.netlify.app/)

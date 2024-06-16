@@ -35,7 +35,6 @@
 
 ## References:
 
-- [Akshay Saini Code Link](https://bitbucket.org/namastedev/namaste-react-live/src/master/)
 - [React without JSX](https://reactjs.org/docs/react-without-jsx.html)
 - [Virtual DOM](https://reactjs.org/docs/faq-internals.html)
 - [Reconciliation](https://reactjs.org/docs/reconciliation.html)

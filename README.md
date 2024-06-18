@@ -28,9 +28,16 @@
 - 💻 [Lecture Source Code](./4-Talk%20is%20cheap%2C%20show%20me%20the%20code/Codes)
 - ✍️ [Hand Written Notes](./4-Talk%20is%20cheap%2C%20show%20me%20the%20code/Handwritten%20Notes/4%20-%20Talk%20is%20cheap%20%2C%20show%20me%20the%20code.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1IYJgVw3SKSF9Az8IKYrb8u_tZaiuL3ay/view?usp=drive_link)
 
+
 ## 📕 [Chapter 05 - Let's get Hooked](./5-Let's%20get%20Hooked)
 - 📖 [Assignment](./5-Let's%20get%20Hooked/Theory/5%20-%20Assignment.md)
 - 📝 [Theory Assignment Solution](./5-Let's%20get%20Hooked/Theory/5%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./5-Let's%20get%20Hooked/Codes)
 - ✍️ [Hand Written Notes](./5-Let's%20get%20Hooked/Handwritten%20Notes/Ep%2005%20-%20Let's%20get%20Hooked%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1ImDghzKMBpe5TXZ5VPpGyhS-Y84UWDJi/view?usp=drive_link)
 
+
+## 📕 [Chapter 06 - Exploring the World](./6-Exploring%20the%20World)
+- 📖 [Assignment](./6-Exploring%20the%20World/Theory/06%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./6-Exploring%20the%20World/Theory/06%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./6-Exploring%20the%20World/Codes)
+- ✍️ [Hand Written Notes](./6-Exploring%20the%20World/Handwritten%20Notes/6%20-%20Exploring%20the%20World%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1J4Jnpkd-RSBW8V1ONKBbXvRYqm5bcl_6/view?usp=drive_link)

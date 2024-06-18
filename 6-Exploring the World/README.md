@@ -14,4 +14,3 @@
 - Make `Search functionality` work.
 - Make a `Login Logout` button that toggles with a state.
 
-## [Food App Search Feature](https://food-app-search-feature.netlify.app/)

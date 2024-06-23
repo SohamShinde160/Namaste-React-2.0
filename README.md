@@ -41,3 +41,10 @@
 - 📝 [Theory Assignment Solution](./6-Exploring%20the%20World/Theory/06%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./6-Exploring%20the%20World/Codes)
 - ✍️ [Hand Written Notes](./6-Exploring%20the%20World/Handwritten%20Notes/6%20-%20Exploring%20the%20World%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1J4Jnpkd-RSBW8V1ONKBbXvRYqm5bcl_6/view?usp=drive_link)
+
+
+## 📕 [Chapter 07 - Finding the path](./7-Finding%20the%20Path)
+- 📖 [Assignment](./7-Finding%20the%20Path/Thoery/7%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./7-Finding%20the%20Path/Thoery/7%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./7-Finding%20the%20Path/Codes)
+- ✍️ [Hand Written Notes](./7-Finding%20the%20Path/Handwritten%20Notes/07-Finding%20the%20path%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1L8TStcRexo78KPMN4nN4MVU9TZQmnYlq/view?usp=drive_link)

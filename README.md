@@ -48,3 +48,10 @@
 - 📝 [Theory Assignment Solution](./7-Finding%20the%20Path/Thoery/7%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./7-Finding%20the%20Path/Codes)
 - ✍️ [Hand Written Notes](./7-Finding%20the%20Path/Handwritten%20Notes/07-Finding%20the%20path%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1L8TStcRexo78KPMN4nN4MVU9TZQmnYlq/view?usp=drive_link)
+
+
+## 📕 [Chapter 08 - Let's get Classy](./8-Let's%20get%20classy)
+- 📖 [Assignment](./8-Let's%20get%20classy/Theory/08%20-%20Asssigment.md)
+- 📝 [Theory Assignment Solution](./8-Let's%20get%20classy/Theory/08%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./8-Let's%20get%20classy/Codes)
+- ✍️ [Hand Written Notes](./8-Let's%20get%20classy/Handwritten%20Notes/8-%20Let's%20get%20Classy.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1LYOvGPfun_K1qBX2sATKrNQhovPN0OCU/view?usp=drive_link)

@@ -55,3 +55,9 @@
 - 📝 [Theory Assignment Solution](./8-Let's%20get%20classy/Theory/08%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./8-Let's%20get%20classy/Codes)
 - ✍️ [Hand Written Notes](./8-Let's%20get%20classy/Handwritten%20Notes/8-%20Let's%20get%20Classy.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1LYOvGPfun_K1qBX2sATKrNQhovPN0OCU/view?usp=drive_link)
+
+## 📕 [Chapter 09 - Optimizing Our App](./9-Optimizing%20our%20App)
+- 📖 [Assignment](./9-Optimizing%20our%20App/Theory/09%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./9-Optimizing%20our%20App/Theory/09%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./9-Optimizing%20our%20App/Codes)
+- ✍️ [Hand Written Notes](./9-Optimizing%20our%20App/Handwritten%20Notes/9-Optimizing%20our%20App.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1MdCpLWLxvOsAS5UmerFJ2NGvENEtrkDC/view?usp=sharing)

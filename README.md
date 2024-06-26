@@ -61,3 +61,8 @@
 - 📝 [Theory Assignment Solution](./9-Optimizing%20our%20App/Theory/09%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./9-Optimizing%20our%20App/Codes)
 - ✍️ [Hand Written Notes](./9-Optimizing%20our%20App/Handwritten%20Notes/9-Optimizing%20our%20App.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1MdCpLWLxvOsAS5UmerFJ2NGvENEtrkDC/view?usp=sharing)
+
+
+## 📕 [Chapter 10 - Jo dikhta hai, vo bikta hai](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai)
+- 💻 [Lecture Source Code](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai/Codes)
+- ✍️ [Hand Written Notes](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai/Handwritten%20Notes/10-Jo%20dikhta%20hai%2C%20vo%20bikta%20hai.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1NBnfKeF-orekiHEEdWqmcFP-DKIDSd0k/view?usp=sharing)

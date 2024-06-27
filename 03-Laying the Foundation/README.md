@@ -31,4 +31,3 @@
 
 ## Q: Create a `Header Component from scratch` using `Functional Component with JSX`
 
-## A: [Header Component](https://header-assignment.netlify.app/)

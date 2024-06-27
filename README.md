@@ -47,7 +47,7 @@
 - 📖 [Assignment](./07-Finding%20the%20Path/Thoery/7%20-%20Assignment.md)
 - 📝 [Theory Assignment Solution](./07-Finding%20the%20Path/Thoery/7%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./07-Finding%20the%20Path/Codes)
-- ✍️ [Hand Written Notes](./07-Finding%20the%20Path/Handwritten%20Notes/7-Finding%20the%20path%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1L8TStcRexo78KPMN4nN4MVU9TZQmnYlq/view?usp=drive_link)
+- ✍️ [Hand Written Notes](./07-Finding%20the%20Path/Handwritten%20Notes/07-Finding%20the%20path%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1L8TStcRexo78KPMN4nN4MVU9TZQmnYlq/view?usp=drive_link)
 
 
 ## 📕 [Chapter 08 - Let's get Classy](./08-Let's%20get%20classy)

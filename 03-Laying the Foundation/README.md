@@ -28,7 +28,3 @@
 - [JS Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [Babel Playground](https://babeljs.io/repl)
 - [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
-
-## Q: Create a `Header Component from scratch` using `Functional Component with JSX`
-
-## A: [Header Component](https://header-assignment.netlify.app/)

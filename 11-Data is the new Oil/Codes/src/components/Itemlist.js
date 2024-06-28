@@ -6,7 +6,7 @@ const Itemlist = ({ items }) => {
   return (
     <div>
       {items.map((res) => (
-        <div className="newmenuinfo shadow-lg" key={res?.card?.info?.id}>
+        <div className="newmenuinfo shadow-lg flex justify-between" key={res?.card?.info?.id}>
           <div className="menucont">
             <div className="menutile">{res?.card?.info?.name}</div>
             <div>
@@ -20,9 +20,11 @@ const Itemlist = ({ items }) => {
             width="156px"
             className="imgmenu"
             src={CDN_URL + res?.card?.info?.imageId}
-              ></img>
-              <button className="p-2 bg-white right-96 mt-36 text-green-600 shadow-lg rounded-lg absolute m-auto">Add +</button>
-          <hr />
+          ></img>
+          <button className="p-2 bg-black right-96 mt-36 text-white shadow-lg rounded-lg absolute m-auto">
+            Add +
+          </button>
+          {/* <hr /> */}
         </div>
       ))}
     </div>

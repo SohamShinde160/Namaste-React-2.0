@@ -1,8 +1,9 @@
 import RestaurantCard, {withPromotedLabel} from "./RestaurantCard";
-import { useEffect, useState } from "react";
+import { useEffect, useState , useContext} from "react";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utilis/useOnlineStatus";
+import userContext from "../utilis/UserContext";
 
 // definition of state react variable
 // ! Whenever state variable updates, react triggers a reconciliation cycle (re-renders the component)
@@ -42,6 +43,7 @@ const Body = () => {
     return (<h1>Looks like you are offline !! check your Internet Connection</h1>)
   }
 
+  const {isLoggedUser ,setLoggedinInfo} = useContext(userContext)
 
   // conditional rendering - Rendering on the basis of Condition
   // if (listOfRestaurant.length === 0) {
@@ -90,6 +92,18 @@ const Body = () => {
         >
           Top Rated Restaurants
         </button>
+        <div>
+          <label htmlFor="username">Username :</label>
+          <input
+            id="username"
+            className="search-box"
+            type="text"
+            value={isLoggedUser}
+            onChange={(e) => {
+              setLoggedinInfo(e.target.value);
+            }}
+          ></input>
+        </div>
       </div>
       <div className="res-container">
         {filteredRestaurant.map((restaurant) => (

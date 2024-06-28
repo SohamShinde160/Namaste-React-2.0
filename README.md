@@ -73,3 +73,9 @@
 - 📝 [Theory Assignment Solution](./11-Data%20is%20the%20new%20Oil/Theory/11%20-Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./11-Data%20is%20the%20new%20Oil/Codes)
 - ✍️ [Hand Written Notes](./11-Data%20is%20the%20new%20Oil/Handwriten%20Notes/11-Data%20is%20the%20new%20oil.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1Nsj6R9QV-gSnWwCTszg6w1Ath1Z6lWk0/view?usp=sharing)
+
+## 📕 [Chapter 12 - Let's build our Store](./12-Let's%20build%20our%20Store)
+- 📖 [Assignment](./12-Let's%20build%20our%20Store/Theory/12%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./12-Let's%20build%20our%20Store/Theory/12%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./12-Let's%20build%20our%20Store/Codes)
+- ✍️ [Hand Written Notes](./12-Let's%20build%20our%20Store/Handwritten%20Notes/12-Let's%20build%20our%20Store.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1OUKRnWFSy_9GmHC7TJWcuW38smtzx_pP/view?usp=sharing)

@@ -1,0 +1,63 @@
+{
+    "id": "448490",
+    "name": "Barbeque Nation",
+    "cloudinaryImageId": "nyudxonxnff3pptpoywr",
+    "locality": "Bandra East",
+    "areaName": "Bandra East",
+    "costForTwo": "₹600 for two",
+    "cuisines": [
+        "North Indian",
+        "Barbecue",
+        "Biryani",
+        "Kebabs",
+        "Mughlai",
+        "Desserts"
+    ],
+    "avgRating": 4,
+    "parentId": "2438",
+    "avgRatingString": "4.0",
+    "totalRatingsString": "500+",
+    "sla": {
+        "deliveryTime": 37,
+        "lastMileTravel": 2.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "2.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2024-07-01 00:00:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+    },
+    "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}

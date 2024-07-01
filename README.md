@@ -84,4 +84,4 @@
 - 📖 [Assignment](./13-Time%20for%20the%20Testing/Theory/13%20-%20Assignment.md)
 - 📝 [Theory Assignment Solution](./13-Time%20for%20the%20Testing/Theory/13%20-Assignmnet%20Soln.md)
 - 💻 [Lecture Source Code](./13-Time%20for%20the%20Testing/Codes)
-- ✍️ [Hand Written Notes](./) - 📥[Gdrive Download link]()
+- ✍️ [Hand Written Notes](./13-Time%20for%20the%20Testing/Handwritten%20Notes/13-Time%20for%20the%20Test.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1PFNCSCuGLLg_aqP7WXYNFxgsdqM80l-C/view?usp=sharing)

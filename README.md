@@ -79,3 +79,9 @@
 - 📝 [Theory Assignment Solution](./12-Let's%20build%20our%20Store/Theory/12%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./12-Let's%20build%20our%20Store/Codes)
 - ✍️ [Hand Written Notes](./12-Let's%20build%20our%20Store/Handwritten%20Notes/12-Let's%20build%20our%20Store.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1OUKRnWFSy_9GmHC7TJWcuW38smtzx_pP/view?usp=sharing)
+
+## 📕 [Chapter 13 - Time for the Testing](./13-Time%20for%20the%20Testing)
+- 📖 [Assignment](./13-Time%20for%20the%20Testing/Theory/13%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./13-Time%20for%20the%20Testing/Theory/13%20-Assignmnet%20Soln.md)
+- 💻 [Lecture Source Code](./13-Time%20for%20the%20Testing/Codes)
+- ✍️ [Hand Written Notes](./) - 📥[Gdrive Download link]()
